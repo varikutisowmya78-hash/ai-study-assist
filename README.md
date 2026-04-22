@@ -11,9 +11,9 @@ This project is based on that experience.
 
 ## ⚡ What This Project Does
 When a user enters any topic, the system generates:
-* 📘 A clear and simple explanation
-* 🧠 An easy example for better understanding
-* 📝 Important points useful for exams
+*  A clear and simple explanation
+*  An easy example for better understanding
+*  Important points useful for exams
   
 ## 🧠 Technologies Used
 * Python
